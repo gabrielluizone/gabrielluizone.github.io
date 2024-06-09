@@ -1,3 +1,2 @@
-## [`Skaftell` Portfolio & Personal Site](https://gabrielluizone.super.site/)
+## [`Skaftell` Portfolio & Personal Site]()
 - Skaftell by Gabriel Luiz | Powered by Notion & Super
-> gabrielluizone.super.site
