@@ -1,4 +1,4 @@
 //
 setTimeout(() => {
-  window.location.href = "https://gabrielluizone.super.site/";
+  window.location.href = "http://www.llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogochuchaf.co.uk/";
 }, 0); // Tempo em milissegundos :D
